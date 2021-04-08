@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+@import
+	url('https://fonts.googleapis.com/css2?family=Lobster&family=PT+Serif:ital@1&display=swap')
+	;
+
+.navbar_colour {
+	background-color: #85C1E9;
+}
+
+.text-area_height {
+	height: 400px;
+}
+

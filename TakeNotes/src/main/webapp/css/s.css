@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+.content{
+	color:violet;
+	height: 300px;
+}
+
+.fo {
+	font-family: 'Lobster', cursive;
+	font-family: 'PT Serif', serif;
+}
